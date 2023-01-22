@@ -12,7 +12,7 @@
 # Sobre mim 💬 :
 
 
-### - Tenho 18 anos, sou apaixonado por tecnologia e possuo o desejo de crescer nesse mundo.
+### - Olá, tenho 18 anos, sou apaixonado por tecnologia e possuo cada vez mais o desejo de estar sempre em crescimento, tanto pessoal quanto em conjunto. Sinta-se livra para visitar os meus códigos.
 
 <div align="center">
 <img hight="400" width="500" alt="GIF" align="center" src="https://i.pinimg.com/originals/fb/11/23/fb1123d29e1602c8c1a702bf5925a99e.gif">
